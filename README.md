@@ -9,9 +9,9 @@ Go to `DRE.py` and see the code usage in `demo()`.
 
 ## Table of Contents
 
-Scroll to **"What is dre-basic?"** for a rationale of the encryption system.<br>
-Scroll to **"Demo: how to use dre-basic"** for a demo of the code usage.<br>
-Scroll to **"Files"** for a brief description of the files in this repo.
+* Scroll to **"What is dre-basic?"** for a rationale of this project.
+* Scroll to **"Demo: how to use dre-basic"** for a code demo.
+* Scroll to **"Files"** for a brief description of the files in this repo.
 
 <hr>
 
