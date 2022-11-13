@@ -3,7 +3,8 @@
 
 
 ## Quickstart
-Go to `DRE.py` and see the code usage in `demo()`.
+1. Go to `DRE.py` and see the code usage in `demo()`.<br>
+2. Go to `challenge.py` to get started on cracking my cipher.
 
 <hr>
 
@@ -17,7 +18,7 @@ Go to `DRE.py` and see the code usage in `demo()`.
 
 ## What is dre-basic?
 
-This project is meant to be a basic demo of how **dynamic radix encryption (DRE)** can be implemented. DRE is essentially base conversion, except the input and output symbol sets are unknown.
+This project is meant to be a basic demo of how **dynamic radix encryption (DRE)** can be implemented, as well as a challenge for the public. DRE is essentially base conversion, except the input and output symbol sets are unknown.
 
 Usually when we do base conversion, we use standard symbol sets like binary (`01`), decimal (`0123456789`), or hex (`0123456789ABCDEF`). Since we all know about these symbol sets, we can easily convert bases in a standard way, like so:
 
@@ -105,3 +106,4 @@ decrypted == plaintext
 
 * `base_conversion.py` contains all the functionality for converting between arbitrary bases.<br>
 * `DRE.py` contains the main cryptographic functions (encrypt/decrypt), as well as a code demo.
+* `challenge.py` contains the challenge prompt, as well as the initial code you'll need to start cracking my cipher.
