@@ -34,7 +34,7 @@ But what if we didn't know the symbol sets? For example, if I was converting fro
 
 Unless you know that the symbol sets I used were `!@#$%^&*()-=_+<>` for hex and `wkxmg80437` for decimal, you wouldn't immediately know how to convert between these two particular number systems. This is the basis of DRE.
 
-In the above example, if we think of `$*%%#@` as plaintext and `m0xk7xk` as ciphertext, then we have an encryption system. This particular example is pretty easy to crack using known plaintext attack, since there are only `10! = 3,628,800` possible ciphertext symbol sets. But we can extend this to larger symbol sets that complicate an attacker's mission. For example:
+In the above example, if we think of `$*%%#@` as plaintext and `m0xk7xk` as ciphertext, then we have an encryption system. This particular example is pretty easy to crack using known-plaintext attack, since there are only `10! = 3,628,800` possible ciphertext symbol sets. But we can extend this to larger symbol sets that complicate an attacker's mission. For example:
 
 | base-90 &rarr; base-79                                                                                 |
 |:-------------------------------------------------------------------------------------------------------|
