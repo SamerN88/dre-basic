@@ -93,7 +93,7 @@ decrypted = dre.decrypt(ciphertext)
 
 <br>
 
-6. We can check if the system was successful:
+6. Just to make sure, we can check if the system works:
 ```
 decrypted == plaintext
 >>> True
