@@ -106,4 +106,4 @@ decrypted == plaintext
 
 * `base_conversion.py` contains all the functionality for converting between arbitrary bases.<br>
 * `DRE.py` contains the main cryptographic functions (encrypt/decrypt), as well as a code demo.
-* `challenge.py` contains the challenge prompt, as well as the initial code you'll need to start cracking my cipher.
+* `challenge.py` contains the challenge prompt and the initial code you'll need to start cracking my cipher.
